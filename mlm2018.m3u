@@ -1,9 +1,21 @@
 #EXTM3U
-#EXTINF:-1,UK | YourTV-
-http://x.mytvxweb.co:25461/Augusto/12345/40844
-#EXTINF:-1,UK | Zero Minggu 10 Round 1
+#EXTINF:-1,MLM2018 | Zero Minggu 10 Round 1
 https://dacvtbddmb1hk.cloudfront.net/540/TranscodedFile/1622860/28532651101546655468430/hlstranscode/28532651101546655468430_4.m3u8
-#EXTINF:-1,UK | Zero Minggu 10 Round 2
+#EXTINF:-1,MLM2018 | Zero Minggu 10 Round 2
 https://dacvtbddmb1hk.cloudfront.net/540/TranscodedFile/1622859/28532651111546655468428/hlstranscode/28532651111546655468428_4.m3u8
-#EXTINF:-1,UK | Sky Sport The Open HD-
-http://x.mytvxweb.co:25461/Augusto/12345/33884
+#EXTINF:-1,MLM2018 | Puteh Minggu 10 Round 1
+https://dacvtbddmb1hk.cloudfront.net/540/TranscodedFile/1622852/38422228461546653951923/hlstranscode/38422228461546653951923_4.m3u8
+#EXTINF:-1,MLM2018 | Puteh Minggu 10 Round 2
+https://dacvtbddmb1hk.cloudfront.net/540/TranscodedFile/1622858/38422228471546653951990/hlstranscode/38422228471546653951990_4.m3u8
+#EXTINF:-1,MLM2018 | Taman Minggu 10 Round 1
+https://dacvtbddmb1hk.cloudfront.net/540/TranscodedFile/1622856/5452256251546653951988/hlstranscode/5452256251546653951988_4.m3u8
+#EXTINF:-1,MLM2018 | Taman Minggu 10 Round 2
+https://dacvtbddmb1hk.cloudfront.net/540/TranscodedFile/1622857/5452256261546653952012/hlstranscode/5452256261546653952012_4.m3u8
+#EXTINF:-1,MLM2018 | Shiro Minggu 10 Round 1
+https://dacvtbddmb1hk.cloudfront.net/540/TranscodedFile/1622851/33002595171546653951994/hlstranscode/33002595171546653951994_4.m3u8
+#EXTINF:-1,MLM2018 | Shiro Minggu 10 Round 2
+https://dacvtbddmb1hk.cloudfront.net/540/TranscodedFile/1622853/33002595181546653951990/hlstranscode/33002595181546653951990_4.m3u8
+#EXTINF:-1,MLM2018 | Bocey Minggu 10 Round 1
+https://dacvtbddmb1hk.cloudfront.net/540/TranscodedFile/1622850/27945425821546653951920/hlstranscode/27945425821546653951920_4.m3u8
+#EXTINF:-1,MLM2018 | Bocey Minggu 10 Round 2
+https://dacvtbddmb1hk.cloudfront.net/540/TranscodedFile/1622855/27945425831546653951958/hlstranscode/27945425831546653951958_4.m3u8
