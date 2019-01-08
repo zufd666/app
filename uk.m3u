@@ -1,67 +1,27 @@
 #EXTM3U
-#EXTINF:-1,Uk | Sky Movies Action
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11238.m3u8
-#EXTINF:-1,Uk | Sky Movies Comedy
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11237.m3u8
-#EXTINF:-1,Uk | Sky Movies Family Hd
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11239.m3u8
-#EXTINF:-1,Uk | Sky Movies Premiere Hd
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11241.m3u8
-#EXTINF:-1,Uk | Sky Movies Scifi / Horror Hd
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11240.m3u8
-#EXTINF:-1,Uk | Sky Movies Drama Hd
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11231.m3u8
-#EXTINF:-1,Uk | Sky Movies Select Hd
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11230.m3u8
-#EXTINF:-1,Uk | Sky Movies Thriller
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11229.m3u8
-#EXTINF:-1,Uk | Skymtv
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11236.m3u8
-#EXTINF:-1,Uk | Skyone Hd
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11234.m3u8
-#EXTINF:-1,Uk | True Movies1 Hd
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11233.m3u8
-#EXTINF:-1,Uk | Yesterday
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11244.m3u8
-#EXTINF:-1,Uk | Comedy Central
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11221.m3u8
-#EXTINF:-1,Uk | Discovery Science Hd
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11226.m3u8
-#EXTINF:-1,Uk | Discovery Turbo Hd
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11227.m3u8
-#EXTINF:-1,Uk | Discovery Channelhd
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11224.m3u8
-#EXTINF:-1,Uk | Discovery Shed
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11225.m3u8
-#EXTINF:-1,Uk | Disneychannel
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11223.m3u8
-#EXTINF:-1,Uk | Disneyjunior
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11222.m3u8
-#EXTINF:-1,UK | Dmax.
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11245.m3u8
-#EXTINF:-1,Uk | National Geographic
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11228.m3u8
-#EXTINF:-1,Uk | Premier Sport
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11260.m3u8
-#EXTINF:-1,Uk | Racing
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11232.m3u8
-#EXTINF:-1,Uk | Eurosport1
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11246.m3u8
-#EXTINF:-1,Uk | Eurosport 2
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11247.m3u8
-#EXTINF:-1,Uk | Sky Sport News
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11255.m3u8
-#EXTINF:-1,Uk | Sky Sport News
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11254.m3u8
-#EXTINF:-1,Uk | Sky Sport Premier League
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11252.m3u8
-#EXTINF:-1,Uk | Sky Sports Action
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11248.m3u8
-#EXTINF:-1,Uk | Sky Sports Cricket
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11249.m3u8
-#EXTINF:-1,Uk | Sky Sports F1
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11253.m3u8
-#EXTINF:-1,Uk | Sky Sports Golf
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11251.m3u8
-#EXTINF:-1,Uk | Sky Sports Main Event
-http://redo1.com:8080/live/LhuWsbjS4D/Achu2bVuYl/11250.m3u8
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/4172
+#EXTINF:-1,UK: Sky Sports Action HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/4174
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/4250
+#EXTINF:-1,UK: BT Sport Extra 1
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/4264
+#EXTINF:-1,UK: BT Sport Extra 2
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/4265
+#EXTINF:-1,UK: BT Sport Extra 3
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/4266
+#EXTINF:-1,UK: BT Sport Extra 4
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/4267
+#EXTINF:-1,UK: BT Sport Extra 5
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/4268
+#EXTINF:-1,ARENA SPORT 1
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3471
+#EXTINF:-1,ARENA SPORT 2
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3472
+#EXTINF:-1,ARENA SPORT 3
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3473
+#EXTINF:-1,ARENA SPORT 4
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3474
+#EXTINF:-1,ARENA SPORT 5
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3475
