@@ -1,29 +1,201 @@
 #EXTM3U
-#EXTINF:-1,US: Nba HD
-http://137.74.80.210:8000/mahmut29/29mahmut/86
-#EXTINF:-1,US: Sport US
-http://137.74.80.210:8000/mahmut29/29mahmut/9557
-#EXTINF:-1,US: Travel Channel
-http://137.74.80.210:8000/mahmut29/29mahmut/1503
-#EXTINF:-1,US: Golf Channel
-http://137.74.80.210:8000/mahmut29/29mahmut/1702
+#EXTINF:-1,US: E4-HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3993
+#EXTINF:-1,US: The Florida Channel
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3992
+#EXTINF:-1,US: H2
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3991
+#EXTINF:-1,US: DIY Network
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3990
+#EXTINF:-1,US: TLC HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3984
+#EXTINF:-1,US: NFL  Network  HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3524
+#EXTINF:-1,US: FXX
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3986
+#EXTINF:-1,US: UC TV
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3985
+#EXTINF:-1,US: Sports Net World HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3528
+#EXTINF:-1,US: Sports Net Ontario HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3527
+#EXTINF:-1,US: Sports Net One HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3526
+#EXTINF:-1,US: Sports Net 360 HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3525
+#EXTINF:-1,US: Sports Net West HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3995
+#EXTINF:-1,US: Sports Net Pacific HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3994
+#EXTINF:-1,US: Nat Geo HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3523
+#EXTINF:-1,US: Fox News HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3522
+#EXTINF:-1,US: Fight Box Network
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3521
+#EXTINF:-1,US: ESPN U HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3520
+#EXTINF:-1,US: BYU Sports
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3304
+#EXTINF:-1,US: TSN 5 HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3301
+#EXTINF:-1,US: TSN 4 HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3300
+#EXTINF:-1,US: TSN 3 HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3299
+#EXTINF:-1,US: TSN 2 HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3298
+#EXTINF:-1,US: TSN 1 HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3297
+#EXTINF:-1,US: TBS HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3313
+#EXTINF:-1,US: STARZ East
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3314
+#EXTINF:-1,US: Starz Cinema HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3316
+#EXTINF:-1,US: E! Entertainment
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3317
+#EXTINF:-1,US: SPIKE HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3319
+#EXTINF:-1,US: HBO Signature HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3320
+#EXTINF:-1,US: Showtime Showcase
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3321
+#EXTINF:-1,US: ShowTime HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3324
+#EXTINF:-1,US: Nickelodeon HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3327
+#EXTINF:-1,US: NHL Network HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3329
+#EXTINF:-1,US: NBC GOLF
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3330
+#EXTINF:-1,US: NBC SPORT
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3331
+#EXTINF:-1,US: NBA TV
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3306
+#EXTINF:-1,US: TNT HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3334
+#EXTINF:-1,US: HBO HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3311
+#EXTINF:-1,US: FOXX HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3338
+#EXTINF:-1,US:FOX Sport 2 HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3340
+#EXTINF:-1,US: FOX Sport 1 HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3341
+#EXTINF:-1,US: FOX HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3342
+#EXTINF:-1,US: Food Network HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3343
+#EXTINF:-1,US: CW HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3344
+#EXTINF:-1,US: COMEDY CENTRAL HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3345
 #EXTINF:-1,US: CNN HD
-http://137.74.80.210:8000/mahmut29/29mahmut/1705
-#EXTINF:-1,US: Tsn 1
-http://137.74.80.210:8000/mahmut29/29mahmut/2023
-#EXTINF:-1,US: Tsn 2
-http://137.74.80.210:8000/mahmut29/29mahmut/2022
-#EXTINF:-1,US: Tsn 3
-http://137.74.80.210:8000/mahmut29/29mahmut/2021
-#EXTINF:-1,US: Tsn 4
-http://137.74.80.210:8000/mahmut29/29mahmut/2020
-#EXTINF:-1,US: Tsn 5
-http://137.74.80.210:8000/mahmut29/29mahmut/2019
-#EXTINF:-1,US: Fox Sports 1 HD
-http://137.74.80.210:8000/mahmut29/29mahmut/112
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3346
+#EXTINF:-1,US: CNBC
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3308
+#EXTINF:-1,US: Cinemax Moremax HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3347
+#EXTINF:-1,US: Cinemax East
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3348
+#EXTINF:-1,US: Cinemax 5 StarMax
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3349
+#EXTINF:-1,US: CBS HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3350
+#EXTINF:-1,US: Bravo HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3351
+#EXTINF:-1,US: BLOOMBERG
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3352
+#EXTINF:-1,US: Bein Sports USA
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3309
+#EXTINF:-1,US: Animal Planet HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3353
+#EXTINF:-1,US: Discovery Science HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3307
+#EXTINF:-1,US: AMC HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3354
+#EXTINF:-1,US: HBO Comedy HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3356
+#EXTINF:-1,US: HBO Zone HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3357
+#EXTINF:-1,US: STARZ EDGE
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3358
+#EXTINF:-1,US: Cinemax Action Max East
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3359
+#EXTINF:-1,US: FX HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3360
+#EXTINF:-1,US: Hallmark Chanel HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3361
+#EXTINF:-1,US: HISTORY HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3362
+#EXTINF:-1,US: National Geographic
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3363
+#EXTINF:-1,US: ABC HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3364
+#EXTINF:-1,US: A&E TV HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3365
+#EXTINF:-1,US: Discovery Channel HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/3312
+#EXTINF:-1,US: SYFY HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/2654
+#EXTINF:-1,US: ESPN 1 HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/2652
+#EXTINF:-1,US: ESPN 2 HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/2653
+#EXTINF:-1,US: Universal Channel
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/2564
+#EXTINF:-1,US: Fashion-One
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/2565
+#EXTINF:-1,US: PAC-12 Network HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/2566
+#EXTINF:-1,US: BET
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/2567
+#EXTINF:-1,US: MLB Network HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/2568
+#EXTINF:-1,US: NBC HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/2569
+#EXTINF:-1,US: USA NETWORK HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/2572
+#EXTINF:-1,US: WILLOW CRICKET HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/2573
+#EXTINF:-1,US: RT America HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/2581
+#EXTINF:-1,US: ABC News
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/2582
+#EXTINF:-1,US: Mello Tv
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/1886
+#EXTINF:-1,US: Travel Channel HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/1887
+#EXTINF:-1,US: Sport NET 1 HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/1884
+#EXTINF:-1,US: Nat-Geo-HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/1890
 #EXTINF:-1,US: Fox Sports 2 HD
-http://137.74.80.210:8000/mahmut29/29mahmut/113
-#EXTINF:-1,US: WWE HD
-http://137.74.80.210:8000/mahmut29/29mahmut/2046
-#EXTINF:-1,US: ESPN U
-http://137.74.80.210:8000/mahmut29/29mahmut/9603
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/1885
+#EXTINF:-1,US: Discovery-Science-HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/1889
+#EXTINF:-1,US: WWE Network HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/1405
+#EXTINF:-1,US: CARTOON NETWORK
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/1414
+#EXTINF:-1,US: Fox Sports 1 HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/1388
+#EXTINF:-1,US: NFL Network HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/1819
+#EXTINF:-1,US: Nasa HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/1820
+#EXTINF:-1,US: CBS News
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/1821
+#EXTINF:-1,US: CBN News
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/1822
+#EXTINF:-1,US: CBS Sports Network HD
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/1823
+#EXTINF:-1,US: NBCSN
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/4278
+#EXTINF:-1,US: UFC FIGHT PASS
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/4396
+#EXTINF:-1,Telemundo USA
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/12925
+#EXTINF:-1,USA: Univision Deportes
+http://super1.ideaiptv.com:8000/Kingiptc/Aa4643/12926
