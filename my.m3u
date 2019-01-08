@@ -1,9 +1,31 @@
 #EXTM3U
-#EXTINF:-1,RTM TV1
+#EXTINF:-1 MY,RTM TV1
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1,RTM TV2
+#EXTINF:-1 MY,RTM TV2
 http://rtm-live.glueapi.io/smil:rtmch002.smil/playlist.m3u8
-#EXTINF:-1,RTM Parlimen
+#EXTINF:-1 MY,RTM Parlimen
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
-#EXTINF:-1,Nat Geo
-P2P://144.217.253.239:2125/57bdd8a50002d75f49c9cf740b4d2f2d.ts
+#EXTINF:-1 ,Indonesia TVRI3
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+#EXTINF:-1 ,Indonesia TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:-1,Korea ArirangTV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1328000_sleng.m3u8
+#EXTINF:-1,Korea CBSTV
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1,Korea KBS2
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+#EXTINF:-1,Korea ChosunTV
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1,Dubai SportHD
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
+#EXTINF:-1,Rusia EXtremeTV
+http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
+#EXTINF:-1,AbuDhabi TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
+#EXTINF:-1,Dubai TV
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
+#EXTINF:-1,Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1,RTE News
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
