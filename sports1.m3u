@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:0,SONY ESPN HD
+http://62.210.97.68:8081/planetind2/sonyespnhd/playlist.m3u8
+#EXTINF:0,SONY SIX HD
+http://62.210.97.68:8081/planetind2/sonysixhd/playlist.m3u8
+#EXTINF:0,TEN 1 HD
+http://62.210.97.68:8081/planetind2/sonyten1hd/playlist.m3u8
+#EXTINF:0,TEN 2 HD
+http://62.210.97.68:8081/planetind2/sonyten2hd/playlist.m3u8
+#EXTINF:0,TEN 3 HD
+http://62.210.97.68:8081/planetind1/ten3hd/playlist.m3u8
+#EXTINF:0,STAR SPORT SELECT HD1
+http://62.210.97.68:8081/planetind1/starsportsselect1/playlist.m3u8
+#EXTINF:0,STAR SPORT SELECT 2
+http://62.210.97.68:8081/planetind1/starsportsselect2/playlist.m3u8
+#EXTINF:0,STAR SPORT 1 HD
+http://62.210.97.68:8081/planetind1/starsports1hd/playlist.m3u8
+#EXTINF:0,STAR SPORT 2 HD
+http://62.210.97.68:8081/planetind1/starsports2/playlist.m3u8
+#EXTINF:0, SPORT 1 HD
+http://62.210.97.68:8081/planetuk/sports1hd/playlist.m3u8
+#EXTINF:0, SPORT 2 HD
+http://62.210.97.68:8081/planetuk/sports2hd/playlist.m3u8
+#EXTINF:0, SPORT 3 HD
+http://62.210.97.68:8081/planetuk/sports3hd/playlist.m3u8
+#EXTINF:0,EIR SPORTS
+http://62.210.97.68:8081/planetuk/eirsports1/playlist.m3u8
+#EXTINF:0,EIR SPORTS 2
+http://62.210.97.68:8081/planetuk/eirsports2/playlist.m3u8
+#EXTINF:0, SPORTS PREMIER LEAGUE
+http://62.210.97.68:8081/planetuk/sportspleaguehd/playlist.m3u8
+#EXTINF:0, SPORTS ACTION
+http://62.210.97.68:8081/planetuk/sportsactionhd/playlist.m3u8
+#EXTINF:0, SPORT NEWS
+http://62.210.97.68:8081/planetuk/snewshd/playlist.m3u8
+#EXTINF:0, SPORT MIX
+http://62.210.97.68:8081/planetuk/sportsmixhd/playlist.m3u8
+#EXTINF:0, SPORT MAIN EVENT
+http://62.210.97.68:8081/planetuk/sportsmaineventhd/playlist.m3u8
+#EXTINF:0, SPORT FOOTBALL
+http://62.210.97.68:8081/planetuk/sportsfootballhd/playlist.m3u8
+#EXTINF:0,FOX SPORTS 1 https://www.iptvbin.com
+http://62.210.97.68:8081/planetusc/foxsports1/playlist.m3u8
+#EXTINF:0,FOX SPORTS 2
+http://62.210.97.68:8081/planetusc/foxsports2/playlist.m3u8
+#EXTINF:0,NBCSN
+http://62.210.97.68:8081/planetusc/nbcsportsnetwork/playlist.m3u8
+#EXTINF:0,SPORTS TV1
+http://62.210.97.68:8081/planetptt/sporttv1hd/playlist.m3u8
+#EXTINF:0,SPORTS TV2
+http://62.210.97.68:8081/planetptt/sporttv2hd/playlist.m3u8
+#EXTINF:0,SPORTS TV3
+http://62.210.97.68:8081/planetptt/sporttv3hd/playlist.m3u8
+#EXTINF:0,SPORTS TV4
+http://62.210.97.68:8081/planetptt/sporttv4hd/playlist.m3u8
+#EXTINF:0,SPORTS TV5
+http://62.210.97.68:8081/planetptt/sporttv5/playlist.m3u8
+#EXTINF:0,TIVIBU SPORT 1
+http://62.210.97.68:8081/planetarb/tivibusport1/playlist.m3u8
+#EXTINF:0,TIVIBU SPORT 2
+http://62.210.97.68:8081/planetarb/tivibusport2/playlist.m3u8
+#EXTINF:0,TIVIBU SPORT 3
+http://62.210.97.68:8081/planetarb/tivibusport3/playlist.m3u8
+#EXTINF:0,TIVIBU SPORT 4
+http://62.210.97.68:8081/planetarb/tivibusport4/playlist.m3u8
+#EXTINF:0,TSN SPORT 1
+http://62.210.97.68:8081/planetusc/tsn1hd/playlist.m3u8
+#EXTINF:0,TSN SPORT 2
+http://62.210.97.68:8081/planetusc/tsn2hd/playlist.m3u8
+#EXTINF:0,TSN SPORT 3
+http://62.210.97.68:8081/planetusc/tsn3hd/playlist.m3u8
+#EXTINF:0,TSN SPORT 4
+http://62.210.97.68:8081/planetusc/tsn4hd/playlist.m3u8
+#EXTINF:0,TSN SPORT 5
+http://62.210.97.68:8081/planetusc/tsn5hd/playlist.m3u8
+#EXTINF:0,RMC SPORT 1
+http://62.210.97.68:8081/planetfr/sfrsport1/playlist.m3u8
+#EXTINF:0,RMC SPORT 2
+http://62.210.97.68:8081/planetfr/sfrsport2/playlist.m3u8
+#EXTINF:0,RMC SPORT 3
+http://62.210.97.68:8081/planetfr/sfrsport3/playlist.m3u8
